@@ -1,9 +1,9 @@
 # kuroishiraishi
-Shell             42.5%  
-HTML              36.9%  
-CSS               16.5%  
-JavaScript        3.0%  
-Python            0.6%  
-Go                0.2%  
-Makefile          0.2%  
-Vim Script        0.1%  
+HTML              62.9%
+Shell             25.1%
+CSS               10.7%
+JavaScript        0.8%
+Python            0.3%
+Go                0.1%
+Makefile          0.1%
+Vim Script        0.1%
