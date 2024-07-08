@@ -1,6 +1,6 @@
 # kuroishiraishi
-HTML              63.8%
-Shell             25.3%
+HTML              64.0%
+Shell             25.0%
 CSS               9.8%
 JavaScript        0.7%
 Python            0.2%
